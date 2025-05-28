@@ -15,7 +15,7 @@ I use it for switching on and off 12V valves for watering plants in the garden. 
 
 ## Features
 
-- Link to [Schematic](schematic/schematic.pdf)
+- Link to [Schematic](schematic/schematic.pdf) and [BOM](schematic/bom/ibom.html)
 - **ESP32-based** controller compatible with [Tasmota firmware](https://tasmota.github.io/)
 - **6 independent load switching channels** (up to 2A per channel)
 - **3 digital inputs**
