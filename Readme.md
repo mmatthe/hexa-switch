@@ -9,6 +9,8 @@ This project is a custom-designed printed circuit board (PCB) for a Tasmota-comp
   <img src="img/final.jpg" height="250" /> 
 </p>
 
+I use it for switching on and off 12V valves for watering plants in the garden. It can also be used to switch relays and contactors to switch larger powers. 
+
 ---
 
 ## Features
