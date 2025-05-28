@@ -41,6 +41,5 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Screenshots / Photos
 
-*(Add photos of the assembled PCB and 3D-printed case here)*
-
+![](img/board11.jpg)
 
