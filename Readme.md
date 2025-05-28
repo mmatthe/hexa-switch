@@ -41,5 +41,5 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Screenshots / Photos
 
-![](img/board11.jpg)
+![](img/board1.jpg)
 
